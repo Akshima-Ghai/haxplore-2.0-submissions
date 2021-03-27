@@ -1,14 +1,15 @@
 # HaXplore 2.0 - Submission Report Format
 
-This is the official code repository for _TEAM NAME_ . This _type of application_ was developed during HaXplore 2.0, 
+This is the official code repository for _GRYFFINDOR GIRLS_ . This _Imposter Syndrome Application_ was developed during HaXplore 2.0, 
 the online hackathon conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
 
-### _Team Name_
+### _GRYFFINDOR GIRLS_
 
-* _Member_
-* _Member_
+* _Akshima Ghai(Admin)_
+* _Komal Devnani_
+* _Bhargavi Singh_
 
-#### _Project Name_
+#### _Imposter Syndrome_
 
 
 #### Overview
@@ -17,7 +18,7 @@ _Explain about your project, the vision behind it and how it helps enhance lifes
 
 #### Technology used
 
-_Write about the technologies and tools used and how they were included and used in your application._
+_Technolgies used : Java for making native Android Application , Android Studio for debugging and testing purpose, Firebase for authentication , AI for bot feature_
 
 #### Screenshots/Demo Video
 
@@ -29,13 +30,8 @@ _Tell in steps how can we setup your application. Also mention all relevant requ
 
 #### Tracks used
 
-_You were given several tracks to choose from in the problem statement. Tell which one did you choose and how does your
-application follow that track._
+_Open Track (which tries to solve promblems related to Imposter Syndrome)._
 
 #### AWS Services Used
 
 _Write in brief about how you used AWS service to improve your application._
-
-
-
-
